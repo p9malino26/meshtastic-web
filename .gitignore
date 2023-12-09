@@ -3,3 +3,6 @@ node_modules
 stats.html
 .vercel
 dev-dist
+package-lock.json
+package.json
+.vscode/launch.json
